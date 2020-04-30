@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/controllers/Affiche_facture.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/controllers/ajoute_fournisseur.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/web/form_medicament.jsp</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/controllers/delete_facture.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/entites/facture.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/dao/MedicamentDao.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/web/medicament.jsp</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/web/valid_admin.jsp</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/dao/AdminDao.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/controllers/delete_medicament.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/controllers/modifier_fournisseur.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/controllers/recherche_users.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/controllers/modifier_users.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/controllers/ajoute_facture.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/controllers/ajoute_medicament.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/web/users.jsp</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/web/edit_fournisseur.jsp</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/dao/FactureDao.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/entites/admin.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/controllers/delete_fournisseur.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/metier/Iadmin.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/controllers/Affiche_fournissuer.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/controllers/Affiche_medicament.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/web/edit_medicament.jsp</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/controllers/newpdf.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/controllers/modifier_facture.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/dao/ConfigDB.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/entites/fourniseur.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/dao/DBconnection.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/controllers/Affiche_users.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/controllers/affiche.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/web/edit_facture.jsp</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/controllers/modifier_medicament.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/web/form_users.jsp</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/controllers/delete_users.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/web/form_fournisseur.jsp</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/src/java/com/pharma/dao/FournisseurDao.java</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/web/index.jsp</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/web/login.jsp</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/web/form_facture.jsp</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/web/fournisseur.jsp</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/web/Facture.jsp</file>
+            <file>file:/C:/Users/KHALID-RAMI/Documents/NetBeansProjects/Mvc_app/web/edit_users.jsp</file>
+        </group>
+    </open-files>
+</project-private>
